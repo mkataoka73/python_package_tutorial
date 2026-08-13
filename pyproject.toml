@@ -3,10 +3,10 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
+name = "example_package_mkataoka"
 version = "0.0.1"
 authors = [
-    { name="Example Author", email="author@example.com" },
+    { name="Masayoshi Kataoka", email="author@example.com" },
 ]
 description = "A small example package"
 readme = "README.md"
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/mkataoka73/python_package_tutorial"
+"Bug Tracker" = "https://github.com/mkataoka73/python_package_tutorial/issues"
